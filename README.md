@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hero1v1" target="blank"><img src="https://img.shields.io/twitter/follow/hero1v1?logo=twitter&style=for-the-badge" alt="hero1v1" /></a> </p>
 
-- 🌱 I’m currently learning **C, ALX Software Engineering,**
+- 🌱 I’m currently learning **C for fun**
 
 - 👨‍💻 All of my projects are available at [digihelpsa.co.za](digihelpsa.co.za)
 
