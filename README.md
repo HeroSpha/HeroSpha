@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siphamandla Ngwenya</h1>
 <h3 align="center">A passionate full stack developer from South Africa</h3>
+<p>Experienced Full Stack Software Engineer with over 9+ years of expertise in developing and delivering complex software solutions across a range of industries. Proficient in a wide range of programming languages, including C#, Python, and Angular.</p>
+<p>Highly adept in full-stack development, from designing and developing APIs to implementing front-end interfaces. Experienced in managing teams and leading software development projects from inception to completion, with a strong focus on delivering high-quality, scalable, and maintainable software solutions.</p>
+<p>Strong problem-solving skills, with a demonstrated ability to analyze complex technical problems and provide effective solutions. Excellent communication and collaboration skills, with a proven track record of working with cross-functional teams and stakeholders to achieve project objectives.</p>
+<p>Certified in Agile methodologies, with experience in working with Agile software development teams. Keen interest in keeping up with the latest technologies and industry trends, with a passion for continuous learning and professional development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herospha&label=Profile%20views&color=0e75b6&style=flat" alt="herospha" /> </p>
 
