@@ -29,7 +29,7 @@
 name: Siphamandla Ngwenya
 location: Johannesburg, South Africa
 role: Full Stack Software Engineer
-company: Digihelp
+company: Zenith Pulse Consulting
 experience: 10+ years
 education: Certified in Agile Methodologies
 ```
@@ -48,8 +48,7 @@ I'm an experienced **Full Stack Software Engineer** with over **10+ years** of e
 ## 🔭 What I'm Up To
 
 - 🌱 Currently exploring **C programming** for fun & low-level understanding
-- 👨‍💻 All my projects are available at **[ngwenyasiphamandla.com](http://www.ngwenyasiphamandla.com)**
-- 📝 I write articles on **[siphamandlangwenya.info](http://siphamandlangwenya.info)**
+- 👨‍💻 All my projects are available at **[siphamandla.dev](https://siphamandla.dev)**
 - 💬 Ask me about **C#, Angular, .NET MAUI, Xamarin, Python, ASP.NET Core, Blazor**
 - 📫 Reach me at **ngwenyaspa@gmail.com**
 
@@ -176,7 +175,7 @@ I'm an experienced **Full Stack Software Engineer** with over **10+ years** of e
 <a href="https://fb.com/siphamandla.ngwenya" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="http://www.ngwenyasiphamandla.com" target="_blank">
+<a href="https://siphamandla.dev" target="_blank">
   <img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
